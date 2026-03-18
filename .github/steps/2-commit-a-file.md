@@ -13,7 +13,7 @@ The following steps will guide you through the process of committing a change on
 > [!NOTE]
 > `.md` is a file extension that creates a Markdown file. You can learn more about Markdown by visiting "[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)" in our docs or by taking the "[Communicating using Markdown](https://github.com/skills/communicate-using-markdown)" Skills Exercise.
 
-1. On the **< > Code** tab in the header menu of your repository, make sure you're on your new branch `my-first-branch`.
+1. On the **< > Code** tab in the header menu of your repository, make sure you're on your new branch `mi-rama`.
 
 2. Select the **Add file** drop-down and click **Create new file**.
 
@@ -46,7 +46,7 @@ The following steps will guide you through the process of committing a change on
 <summary>Having trouble? 🤷</summary><br/>
 
 If you don't get feedback, here are some things to check:
-- Make sure you are on the `my-first-branch` branch.
+- Make sure you are on the `mi-rama` branch.
 - Ensure the `PROFILE.md` file is created and in the root folder.
 
 </details>
