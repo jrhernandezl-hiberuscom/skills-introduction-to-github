@@ -38,11 +38,11 @@ GitHub shows your profile README at the top of your profile page. For more infor
 
    <img width="300" alt="screenshot highlighting the branch selection" src="https://github.com/jrhernandezl-hiberuscom/skills-introduction-to-github/blob/main/.github/images/branch-selection-dropdown.png?raw=true">
 
-4. In the text box **Find or create a branch...**, enter `my-first-branch`.
+4. In the text box **Find or create a branch...**, enter `mi-rama`.
    
    > **Note:** This is checked to continue with the next step. :wink: 
 
-5. Click the text **Create branch: `my-first-branch` from main** to create your branch.
+5. Click the text **Create branch: `mi-rama` from main** to create your branch.
 
    <img width="300" alt="screenshot highlighting the create branch prompt" src="https://github.com/jrhernandezl-hiberuscom/skills-introduction-to-github/blob/main/.github/images/create-branch-prompt.png?raw=true">
 
@@ -56,6 +56,6 @@ GitHub shows your profile README at the top of your profile page. For more infor
 <summary>Having trouble? 🤷</summary><br/>
 
 If you don't get feedback, here are some things to check:
-- Make sure your created the branch with the exact name `my-first-branch`. No prefixes or suffixes.
+- Make sure you created the branch with the exact name `mi-rama`. No prefixes or suffixes.
 
 </details>

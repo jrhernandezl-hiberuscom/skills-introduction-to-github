@@ -19,7 +19,7 @@ To create a pull request automatically, click **Compare & pull request** button,
 3. Select the following branches using the dropdown menus.
    
    - **base:** `main`
-   - **compare:** `my-first-branch`
+   - **compare:** `mi-rama`
 
    ![screenshot showing both branch selections](https://github.com/jrhernandezl-hiberuscom/skills-introduction-to-github/blob/main/.github/images/branch-selection-comparison.png?raw=true)
 

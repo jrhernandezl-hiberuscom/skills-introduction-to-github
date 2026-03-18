@@ -1,14 +1,14 @@
 name: Step 1 # Create a branch
 
 # Checks if the learner completed tasks for step 1.
-# - Triggers when the user creates a new branch 'my-first-branch'.
-# - Checks that the branch name is 'my-first-branch'.
+# - Triggers when the user creates a new branch 'mi-rama'.
+# - Checks that the branch name is 'mi-rama'.
 # - If all checks pass, the workflow is disabled so it doesn't run again. As such, workflow status badge will change to green.
 
 on:
   push:
     branches:
-      - "my-first-branch"
+      - "mi-rama"
 
 permissions:
   contents: read
